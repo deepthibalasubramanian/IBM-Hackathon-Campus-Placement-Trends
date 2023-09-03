@@ -33,3 +33,19 @@ Each model was rigorously trained and evaluated using appropriate metrics.
 
 ### Identifying the Best Performing Model:
 After thorough evaluation, we identified that the Logistic Regression model achieved the highest accuracy.
+
+## URL Easy Access:
+
+### Code:
+https://colab.research.google.com/drive/1uI-gH600wC92Qakbv0fIlNtV9NECgYtp
+
+### IBM Course Completion 
+
+#### Journey to Cloud: Envisioning Your Solution:
+https://www.credly.com/badges/fa665e59-652c-4aed-9620-92769dd3e62f/public_url
+https://www.credly.com/badges/88118241-93b0-41b0-a456-fdf4d035a233/public_url
+
+#### Getting Started with Enterprise Data Science:
+https://www.credly.com/badges/52b434fc-d24f-4ab7-930f-1850c94a063f/public_url
+https://www.credly.com/badges/fdcac108-bf56-438f-ba1f-3988fc149bd9/public_url
+
