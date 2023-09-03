@@ -39,6 +39,7 @@ After thorough evaluation, we identified that the Logistic Regression model achi
 ### Code:
 https://colab.research.google.com/drive/1uI-gH600wC92Qakbv0fIlNtV9NECgYtp
 
+## Course Completion Badges:
 ### IBM Course Completion 
 
 #### Journey to Cloud: Envisioning Your Solution:
